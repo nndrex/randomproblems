@@ -7,4 +7,4 @@ properties:
   myUrlProp: https://example.com
   isthisreal: fantasea
 relations:
-  mySingleRelation: myTargetEntity
+  identifier: test-oltp
