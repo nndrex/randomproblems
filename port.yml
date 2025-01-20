@@ -1,0 +1,9 @@
+identifier: randomproblems
+title: randomproblems
+blueprint: myBlueprint
+properties:
+  myStringProp: myValue
+  myNumberProp: 5
+  myUrlProp: https://example.com
+relations:
+  mySingleRelation: myTargetEntity
