@@ -1,6 +1,6 @@
 identifier: randomproblems
 title: randomproblems
-blueprint: myBlueprint
+blueprint: service
 properties:
   myStringProp: myValue
   myNumberProp: 5
