@@ -7,4 +7,4 @@ properties:
   myUrlProp: https://example.com
   isthisreal: fantasea
 relations:
-  identifier: test-oltp
+  test-oltp: test-oltp
